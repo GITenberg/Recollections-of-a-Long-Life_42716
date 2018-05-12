@@ -1,0 +1,28 @@
+_repo: Recollections-of-a-Long-Life_42716
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stoughton, John
+    birthdate: 1807
+    deathdate: 1897
+    gutenberg_agent_id: '41836'
+    url: http://www.gutenberg.org/2009/agents/41836
+    wikipedia: https://en.wikipedia.org/wiki/John_Stoughton
+description: ''
+gutenberg_issued: '2013-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42716'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Stoughton, John, 1807-1897'
+- !lcsh 'Clergy -- England -- Biography'
+title: Recollections of a Long Life
+url: http://www.gutenberg.org/ebooks/42716
